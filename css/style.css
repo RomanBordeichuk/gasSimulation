@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+}
+body{
+    background: #59c276;
+}
+.cont{
+    width: 800px;
+    height: 500px;
+    margin: 50px auto;
+    border: 3px solid #3d3d3d;
+    position: relative;
+}
+.circle{
+    width: 20px;
+    height: 20px;
+    background: #a6372b;
+    border-radius: 50%;
+    position: absolute;
+}
